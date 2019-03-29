@@ -1,4 +1,4 @@
-# Glosario
+﻿# Glosario
 
 
 Este glosario hablará sobre algunos términos y comandos que pertenecen a Git.
@@ -26,7 +26,7 @@ Es una carpeta que generalmente está contenido en el directorio de Git, que alm
 
 ### Preparar Cambios / Stage Changes
 Es una etapa donde se preparan los cambios que se desean realizar al proyecto, utilizando el comando add para agregar estos cambios.
-[Git](https://git-scm.com/book/es/v1/Fundamentos-de-Git-Guardando-cambios-en-el-repositorio "Git")
+[Referencia bibliográfica](https://git-scm.com/book/es/v1/Fundamentos-de-Git-Guardando-cambios-en-el-repositorio "Git")
 
 ### Confirmar cambios / Commit Changes 
 El la última estapa del ciclo, en esta se confirman todos los cambios que se hayan preparado en el repositorio local.
